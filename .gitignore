@@ -1,6 +1,7 @@
 # other from this project
 clean_folder.egg-info/
 build/
+instruction_creating_packages.txt
 
 # virtual environments (for example .venv)
 .*/
